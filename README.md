@@ -4,6 +4,8 @@ A curated collection of AI agent definitions for dual-platform use — **Claude 
 
 Each agent is a self-contained markdown file that defines a specialist persona, enabling AI assistants to adopt domain-specific expertise, workflows, and communication styles on demand.
 
+> **Original repository:** [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)
+
 ---
 
 ## Overview
@@ -130,7 +132,7 @@ Agents span a wide range of domains, including but not limited to:
 
 ## License
 
-[Add your license here]
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
