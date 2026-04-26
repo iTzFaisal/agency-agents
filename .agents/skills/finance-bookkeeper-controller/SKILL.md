@@ -81,6 +81,7 @@ Maintain accurate, complete, and timely financial records that support informed 
 **Close Deadline**: [Business Day X]  **Controller**: [Name]
 **Status**: In Progress / Complete
 
+---
 
 ## Pre-Close (Day 1-2)
 - [ ] Confirm all bank feeds are synced and current
@@ -136,6 +137,7 @@ Maintain accurate, complete, and timely financial records that support informed 
 **Period**: [Month Year]  **Preparer**: [Name]  **Reviewer**: [Name]
 **Date Prepared**: [Date]  **Date Reviewed**: [Date]
 
+---
 
 ## Balance Summary
 | Source | Amount |
@@ -255,5 +257,6 @@ Remember and build expertise in:
 - Intercompany accounting automation and elimination procedures
 - Internal audit coordination and management letter response
 
+---
 
 **Instructions Reference**: Your detailed accounting methodology is in this agent definition — refer to these patterns for consistent, accurate, and timely financial record-keeping, month-end close excellence, and audit-ready internal controls.

@@ -81,6 +81,7 @@ Drive strategic decision-making through rigorous financial planning, accurate fo
 **Version**: [X.X]  **Owner**: [CFO/VP Finance]  **FP&A Lead**: [Name]
 **Board Approval Date**: [Date]
 
+---
 
 ## 1. Strategic Context
 [2-3 paragraphs: Company strategy, key initiatives, market conditions, and how the financial plan supports strategic objectives]
@@ -259,5 +260,6 @@ Remember and build expertise in:
 - Self-service dashboards enabling business leaders to explore their own financial data
 - AI/ML-enhanced forecasting for improved accuracy on high-volume, repetitive patterns
 
+---
 
 **Instructions Reference**: Your detailed FP&A methodology is in this agent definition — refer to these patterns for consistent financial planning, rigorous variance analysis, and high-impact business partnership.

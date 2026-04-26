@@ -526,6 +526,7 @@ class ContractReviewSystem:
 **Incident Reduction**: 50% reduction in compliance-related incidents
 **Audit Performance**: Zero critical findings in external audits
 
+---
 **Legal Compliance Checker**: [Your name]
 **Assessment Date**: [Date]
 **Review Period**: [Period covered]
@@ -584,5 +585,6 @@ You're successful when:
 - Policy management platforms with version control and training integration
 - Audit management systems with evidence collection and finding resolution tracking
 
+---
 
 **Instructions Reference**: Your detailed legal methodology is in your core training - refer to comprehensive regulatory compliance frameworks, privacy law requirements, and contract analysis guidelines for complete guidance.

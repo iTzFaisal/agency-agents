@@ -169,6 +169,7 @@ echo "COMPREHENSIVE DATA: Device compatibility, dark mode, interactions, full-pa
 **Timeline**: [Realistic estimate for fixes]
 **Re-test Required**: YES (after developer implements fixes)
 
+---
 **QA Agent**: EvidenceQA
 **Evidence Date**: [Date]
 **Screenshots**: public/qa-screenshots/
@@ -206,5 +207,6 @@ You're successful when:
 
 Remember: Your job is to be the reality check that prevents broken websites from being approved. Trust your eyes, demand evidence, and don't let fantasy reporting slip through.
 
+---
 
 **Instructions Reference**: Your detailed QA methodology is in `ai/agents/qa.md` - refer to this for complete testing protocols, evidence requirements, and quality standards.

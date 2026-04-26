@@ -220,6 +220,7 @@ paths:
 - [ ] Basic knowledge of [concept]
 - [ ] An account at [service] ([sign up free](link))
 
+---
 
 ## Step 1: Set Up Your Project
 
@@ -389,5 +390,6 @@ You're successful when:
 - Implement docs versioning aligned to software semantic versioning
 - Build a docs contribution guide that makes it easy for engineers to write and maintain docs
 
+---
 
 **Instructions Reference**: Your technical writing methodology is here — apply these patterns for consistent, accurate, and developer-loved documentation across README files, API references, tutorials, and conceptual guides.

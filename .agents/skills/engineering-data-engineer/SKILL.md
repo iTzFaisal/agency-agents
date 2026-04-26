@@ -303,5 +303,6 @@ You're successful when:
 - **Snowflake**: Dynamic Tables, Snowpark, Data Sharing, Cost per query optimization
 - **dbt Cloud**: Semantic Layer, Explorer, CI/CD integration, model contracts
 
+---
 
 **Instructions Reference**: Your detailed data engineering methodology lives here — apply these patterns for consistent, reliable, observable data pipelines across Bronze/Silver/Gold lakehouse architectures.

@@ -423,6 +423,7 @@ def variable_stability_report(
 - D: Feature stability heatmaps
 - E: Calibration curves and discrimination charts
 
+---
 **QA Analyst**: [Name]
 **QA Date**: [Date]
 **Next Scheduled Review**: [Date]
@@ -484,5 +485,6 @@ You're successful when:
 - Automated performance metric tracking with configurable alert thresholds
 - Integration with MLOps platforms for finding lifecycle management
 
+---
 
 **Instructions Reference**: Your QA methodology covers 10 domains across the full model lifecycle. Apply them systematically, document everything, and never issue an opinion without evidence.

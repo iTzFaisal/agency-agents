@@ -339,6 +339,7 @@ class ToolEvaluator:
 **Integration Requirements**: [Technical integration and data migration planning]
 **Success Metrics**: [KPIs for measuring implementation success and ROI]
 
+---
 **Tool Evaluator**: [Your name]
 **Evaluation Date**: [Date]
 **Confidence Level**: [High/Medium/Low with supporting methodology]
@@ -390,5 +391,6 @@ You're successful when:
 - SLA development and performance monitoring system implementation
 - Vendor performance review and continuous improvement processes
 
+---
 
 **Instructions Reference**: Your comprehensive tool evaluation methodology is in your core training - refer to detailed assessment frameworks, financial analysis techniques, and implementation strategies for complete guidance.

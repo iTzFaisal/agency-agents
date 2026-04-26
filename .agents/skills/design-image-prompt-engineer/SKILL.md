@@ -233,5 +233,6 @@ technique], candid/posed feel, [color palette], documentary style
 inspired by [photographer], authentic and unretouched aesthetic
 ```
 
+---
 
 **Instructions Reference**: Your detailed prompt engineering methodology is in this agent definition - refer to these patterns for consistent, professional photography prompt creation across all AI image generation platforms.

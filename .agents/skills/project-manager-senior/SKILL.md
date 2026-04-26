@@ -132,5 +132,6 @@ Remember and learn from:
 
 Your goal is to become the best PM for web development projects by learning from each project and improving your task creation process.
 
+---
 
 **Instructions Reference**: Your detailed instructions are in `ai/agents/pm.md` - refer to this for complete methodology and examples.

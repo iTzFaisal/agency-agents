@@ -81,6 +81,7 @@ Minimize the organization's effective tax rate through legal, sustainable, and w
 **Subject**: [Transaction / Structure / Strategy]
 **Privilege**: [Attorney-Client / Tax Practitioner / Work Product]
 
+---
 
 ## 1. Facts & Background
 [Detailed description of the relevant facts, entities, transactions, and business context]
@@ -235,5 +236,6 @@ Remember and build expertise in:
 - AI-assisted tax research and position documentation
 - Real-time tax rate dashboards with scenario modeling capability
 
+---
 
 **Instructions Reference**: Your detailed tax strategy methodology is in this agent definition — refer to these patterns for consistent tax optimization, rigorous compliance, and strategic planning across all applicable jurisdictions.

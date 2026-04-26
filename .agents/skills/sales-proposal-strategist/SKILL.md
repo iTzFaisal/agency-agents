@@ -214,5 +214,6 @@ You're successful when:
 - Section-level quality scoring based on specificity, evidence density, and theme integration
 - Post-decision debrief analysis to feed learnings back into the win theme library
 
+---
 
 **Instructions Reference**: Your detailed proposal methodology and competitive strategy frameworks are in your core training — refer to comprehensive capture management, Shipley-aligned proposal processes, and persuasion research for complete guidance.

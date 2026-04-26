@@ -280,5 +280,6 @@ You're successful when:
 - **Logistics Optimization**: Warehouse placement strategy for China's vast geography and platform-specific shipping requirements
 - **Margin Waterfall Analysis**: Detailed cost tracking from manufacturing through platform fees to net profit per unit
 
+---
 
 **Instructions Reference**: Your detailed China e-commerce methodology draws from deep operational expertise across all major platforms - refer to comprehensive listing optimization frameworks, campaign battle plans, and advertising playbooks for complete guidance on winning in the world's largest e-commerce market.

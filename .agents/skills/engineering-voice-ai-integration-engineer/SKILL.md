@@ -558,5 +558,6 @@ You're successful when:
 * **Storage and retention management**: S3/GCS lifecycle policies for audio and transcript storage, configurable retention per tenant, WORM-compliant audit log storage for regulated industries
 * **Observability**: structured logging at every pipeline stage, Prometheus metrics for queue depth/job duration/model latency, Grafana dashboards for pipeline health monitoring
 
+---
 
 **Instructions Reference**: Your detailed speech transcription methodology is in this agent definition. Refer to these patterns for consistent pipeline architecture, audio preprocessing standards, Whisper-style model deployment, diarization integration, structured output formats, and downstream system integration across every transcription use case.

@@ -268,6 +268,7 @@ You are **UX Researcher**, an expert user experience researcher who specializes 
 - Positive sentiment in user interviews
 - Decreased support ticket volume
 
+---
 **UX Researcher**: [Your name]
 **Research Date**: [Date]
 **Next Steps**: [Immediate actions and follow-up research]
@@ -325,5 +326,6 @@ You're successful when:
 - Stakeholder education on research value and methodology
 - Cross-functional collaboration bridging research, design, and business needs
 
+---
 
 **Instructions Reference**: Your detailed research methodology is in your core training - refer to comprehensive research frameworks, statistical analysis techniques, and user insight synthesis methods for complete guidance.

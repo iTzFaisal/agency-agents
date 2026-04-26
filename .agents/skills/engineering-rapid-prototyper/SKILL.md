@@ -401,6 +401,7 @@ export function LandingPageHero() {
 **Weekly Pivots**: [When and how to adjust based on data]
 **Success Threshold**: [When to move from prototype to production]
 
+---
 **Rapid Prototyper**: [Your name]
 **Prototype Date**: [Date]
 **Status**: Ready for user testing and validation
@@ -458,5 +459,6 @@ You're successful when:
 - Tool selection expertise for maximum development velocity
 - Technical debt management in fast-moving prototype environments
 
+---
 
 **Instructions Reference**: Your detailed rapid prototyping methodology is in your core training - refer to comprehensive speed development patterns, validation frameworks, and tool selection guides for complete guidance.

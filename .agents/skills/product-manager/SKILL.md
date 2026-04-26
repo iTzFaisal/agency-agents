@@ -53,6 +53,7 @@ Relentlessly eliminate confusion, misalignment, wasted effort, and scope creep. 
 **Author**: [PM Name]  **Last Updated**: [Date]  **Version**: [X.X]
 **Stakeholders**: [Eng Lead, Design Lead, Marketing, Legal if needed]
 
+---
 
 ## 1. Problem Statement
 What specific user pain or business opportunity are we solving?
@@ -64,6 +65,7 @@ Who experiences this problem, how often, and what is the cost of not solving it?
 - Support signal: [ticket volume / theme]
 - Competitive signal: [what competitors do or don't do]
 
+---
 
 ## 2. Goals & Success Metrics
 | Goal | Metric | Current Baseline | Target | Measurement Window |
@@ -72,6 +74,7 @@ Who experiences this problem, how often, and what is the cost of not solving it?
 | Reduce support load | Tickets/week on this topic | 120 | <40 | 90 days post-launch |
 | Increase retention | 30-day return rate | 58% | 68% | Q3 cohort |
 
+---
 
 ## 3. Non-Goals
 Explicitly state what this initiative will NOT address in this iteration.
@@ -79,6 +82,7 @@ Explicitly state what this initiative will NOT address in this iteration.
 - We are not supporting mobile in v1 (analytics show <8% mobile usage for this feature)
 - We are not adding admin-level configuration until we validate the base behavior
 
+---
 
 ## 4. User Personas & Stories
 **Primary Persona**: [Name] — [Brief context, e.g., "Mid-market ops manager, 200-employee company, uses the product daily"]
@@ -95,6 +99,7 @@ Core user stories with acceptance criteria:
 **Acceptance Criteria**:
 - [ ] Given [context], when [action], then [expected result]
 
+---
 
 ## 5. Solution Overview
 [Narrative description of the proposed solution — 2–4 paragraphs]
@@ -105,6 +110,7 @@ Core user stories with acceptance criteria:
 - [Decision 1]: We chose [approach A] over [approach B] because [reason]. Trade-off: [what we give up].
 - [Decision 2]: We are deferring [X] to v2 because [reason].
 
+---
 
 ## 6. Technical Considerations
 **Dependencies**:
@@ -120,6 +126,7 @@ Core user stories with acceptance criteria:
 - [ ] [Question] — Owner: [name] — Deadline: [date]
 - [ ] [Question] — Owner: [name] — Deadline: [date]
 
+---
 
 ## 7. Launch Plan
 | Phase | Date | Audience | Success Gate |
@@ -130,6 +137,7 @@ Core user stories with acceptance criteria:
 
 **Rollback Criteria**: If [metric] drops below [threshold] or error rate exceeds [X]%, revert flag and page on-call.
 
+---
 
 ## 8. Appendix
 - [User research session recordings / notes]
@@ -139,6 +147,7 @@ Core user stories with acceptance criteria:
 - [Relevant support tickets]
 ```
 
+---
 
 ### Opportunity Assessment
 
@@ -146,11 +155,13 @@ Core user stories with acceptance criteria:
 # Opportunity Assessment: [Name]
 **Submitted by**: [PM]  **Date**: [date]  **Decision needed by**: [date]
 
+---
 
 ## 1. Why Now?
 What market signal, user behavior shift, or competitive pressure makes this urgent today?
 What happens if we wait 6 months?
 
+---
 
 ## 2. User Evidence
 **Interviews** (n=X):
@@ -165,6 +176,7 @@ What happens if we wait 6 months?
 - X tickets/month containing [theme] — [% of total volume]
 - NPS detractor comments: [recurring theme]
 
+---
 
 ## 3. Business Case
 - **Revenue impact**: [Estimated ARR lift, churn reduction, or upsell opportunity]
@@ -172,6 +184,7 @@ What happens if we wait 6 months?
 - **Strategic fit**: [Connection to current OKRs — quote the objective]
 - **Market sizing**: [TAM/SAM context relevant to this feature space]
 
+---
 
 ## 4. RICE Prioritization Score
 | Factor | Value | Notes |
@@ -182,6 +195,7 @@ What happens if we wait 6 months?
 | Effort | [X person-months] | Engineering t-shirt: [S/M/L/XL] |
 | **RICE Score** | **(R × I × C) ÷ E = XX** | |
 
+---
 
 ## 5. Options Considered
 | Option | Pros | Cons | Effort |
@@ -191,6 +205,7 @@ What happens if we wait 6 months?
 | Buy / integrate partner | [pros] | [cons] | S |
 | Defer 2 quarters | [pros] | [cons] | — |
 
+---
 
 ## 6. Recommendation
 **Decision**: Build / Explore further / Defer / Kill
@@ -201,6 +216,7 @@ What happens if we wait 6 months?
 **Owner**: [name]
 ```
 
+---
 
 ### Roadmap (Now / Next / Later)
 
@@ -219,6 +235,7 @@ What happens if we wait 6 months?
 | [Feature adoption] | X% | Y% | ↑/↓/→ |
 | [NPS] | X | Y | ↑/↓/→ |
 
+---
 
 ## 🟢 Now — Active This Quarter
 Committed work. Engineering, design, and PM fully aligned.
@@ -229,6 +246,7 @@ Committed work. Engineering, design, and PM fully aligned.
 | [Feature B] | [pain solved] | [metric + target] | [name] | In Design | Week X |
 | [Tech Debt X] | [engineering health] | [metric] | [name] | Scoped | Week X |
 
+---
 
 ## 🟡 Next — Next 1–2 Quarters
 Directionally committed. Requires scoping before dev starts.
@@ -239,6 +257,7 @@ Directionally committed. Requires scoping before dev starts.
 | [Feature D] | [If we build X, users will Y] | [metric target] | Med | Needs design spike |
 | [Feature E] | [If we build X, users will Y] | [metric target] | Low | Needs user validation |
 
+---
 
 ## 🔵 Later — 3–6 Month Horizon
 Strategic bets. Not scheduled. Will advance to Next when evidence or priority warrants.
@@ -248,6 +267,7 @@ Strategic bets. Not scheduled. Will advance to Next when evidence or priority wa
 | [Feature F] | [Why this matters long-term] | [Interview signal / usage threshold / competitive trigger] |
 | [Feature G] | [Why this matters long-term] | [What would move it to Next] |
 
+---
 
 ## ❌ What We're Not Building (and Why)
 Saying no publicly prevents repeated requests and builds trust.
@@ -258,6 +278,7 @@ Saying no publicly prevents repeated requests and builds trust.
 | [Request Y] | [Source] | [reason] | [condition] |
 ```
 
+---
 
 ### Go-to-Market Brief
 
@@ -266,10 +287,12 @@ Saying no publicly prevents repeated requests and builds trust.
 **Launch Date**: [date]  **Launch Tier**: 1 (Major) / 2 (Standard) / 3 (Silent)
 **PM Owner**: [name]  **Marketing DRI**: [name]  **Eng DRI**: [name]
 
+---
 
 ## 1. What We're Launching
 [One paragraph: what it is, what user problem it solves, and why it matters now]
 
+---
 
 ## 2. Target Audience
 | Segment | Size | Why They Care | Channel to Reach |
@@ -278,6 +301,7 @@ Saying no publicly prevents repeated requests and builds trust.
 | Secondary: [Persona] | [# users] | [benefit] | [channel] |
 | Expansion: [New segment] | [opportunity] | [hook] | [channel] |
 
+---
 
 ## 3. Core Value Proposition
 **One-liner**: [Feature] helps [persona] [achieve specific outcome] without [current pain/friction].
@@ -289,6 +313,7 @@ Saying no publicly prevents repeated requests and builds trust.
 | Manager / buyer | [business framing] | [ROI message] | [case study / metric] |
 | Champion (internal seller) | [what they need to convince peers] | [social proof] | [customer logo / win] |
 
+---
 
 ## 4. Launch Checklist
 **Engineering**:
@@ -311,6 +336,7 @@ Saying no publicly prevents repeated requests and builds trust.
 - [ ] CS team trained — session scheduled: [date]
 - [ ] FAQ document for common objections published
 
+---
 
 ## 5. Success Criteria
 | Timeframe | Metric | Target | Owner |
@@ -321,6 +347,7 @@ Saying no publicly prevents repeated requests and builds trust.
 | 60 days | Support tickets on related topic | −30% | CS |
 | 90 days | NPS delta for feature users | +5 points | PM |
 
+---
 
 ## 6. Rollback & Contingency
 - **Rollback trigger**: Error rate > X% OR [critical metric] drops below [threshold]
@@ -328,6 +355,7 @@ Saying no publicly prevents repeated requests and builds trust.
 - **Communication plan if rollback**: [who to notify, template to use]
 ```
 
+---
 
 ### Sprint Health Snapshot
 

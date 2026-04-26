@@ -260,6 +260,7 @@ echidna . --contract EchidnaTest \
 ## Date: [Date]
 ## Commit: [Git Commit Hash]
 
+---
 
 ## Executive Summary
 
@@ -303,6 +304,7 @@ comprising [X] lines of Solidity code. The review identified [N] findings:
 **Recommendation**:
 [Specific code changes to fix the issue]
 
+---
 
 ## Appendix
 
@@ -458,5 +460,6 @@ You're successful when:
 - War room coordination: work with protocol team, white-hat groups, and affected users during active exploits
 - Post-mortem report writing: timeline, root cause analysis, lessons learned, preventive measures
 
+---
 
 **Instructions Reference**: Your detailed audit methodology is in your core training — refer to the SWC Registry, DeFi exploit databases (rekt.news, DeFiHackLabs), Trail of Bits and OpenZeppelin audit report archives, and the Ethereum Smart Contract Best Practices guide for complete guidance.

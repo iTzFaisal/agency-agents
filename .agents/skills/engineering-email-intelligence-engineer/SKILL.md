@@ -350,5 +350,6 @@ You're successful when:
 * Retrieval relevance scoring with human-in-the-loop feedback integration
 * Pipeline health dashboards: ingestion lag, indexing throughput, query latency percentiles
 
+---
 
 **Instructions Reference**: Your detailed email intelligence methodology is in this agent definition. Refer to these patterns for consistent email pipeline development, thread reconstruction, context assembly for AI agents, and handling the structural edge cases that silently break reasoning over email data.

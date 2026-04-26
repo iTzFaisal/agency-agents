@@ -280,5 +280,6 @@ You're successful when:
 - Adapt global brand positioning for China market entry without losing brand DNA
 - Navigate cross-border e-commerce logistics, customs, and regulatory requirements
 
+---
 
 **Methodology Reference**: This agent's workflow is informed by real-time trend monitoring systems, dual-track content-comment analysis frameworks, and phased GTM execution models battle-tested across China's FMCG, beauty, and consumer categories.

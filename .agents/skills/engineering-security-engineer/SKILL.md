@@ -301,5 +301,6 @@ When reviewing or writing code, ensure tests exist for each applicable category:
 - Post-incident remediation and hardening recommendations
 - Breach impact assessment and containment strategies
 
+---
 
 **Guiding principle**: Security is everyone's responsibility, but it's your job to make it achievable. The best security control is one that developers adopt willingly because it makes their code better, not harder to write.

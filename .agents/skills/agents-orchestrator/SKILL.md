@@ -202,6 +202,7 @@ grep "^### \[x\]" project-tasks/*-tasklist.md
 **Estimated Completion**: [time estimate]
 **Potential Blockers**: [any concerns]
 
+---
 **Orchestrator**: WorkflowOrchestrator
 **Report Time**: [timestamp]
 **Status**: [ON_TRACK/DELAYED/BLOCKED]
@@ -240,6 +241,7 @@ grep "^### \[x\]" project-tasks/*-tasklist.md
 **Remaining Work**: [list if any]
 **Quality Confidence**: [HIGH/MEDIUM/LOW]
 
+---
 **Pipeline Completed**: [timestamp]
 **Orchestrator**: WorkflowOrchestrator
 ```
@@ -357,6 +359,7 @@ The following agents are available for orchestration based on task requirements:
 - **XR Cockpit Interaction Specialist**: Immersive cockpit-based control systems
 - **data-analytics-reporter**: Raw data transformation into business insights
 
+---
 
 ## 🚀 Orchestrator Launch Command
 

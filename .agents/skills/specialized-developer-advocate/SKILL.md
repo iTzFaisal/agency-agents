@@ -197,6 +197,7 @@ of reports. Target: [version/milestone]. Subscribe to that issue for updates.
 
 Let me know if the workaround doesn't work for your case.
 
+---
 <!-- For feature requests -->
 This is a great use case, and you're not the first to ask — #[related-issue] and
 #[related-issue] are related.
@@ -313,5 +314,6 @@ You're successful when:
 - **Video Strategy**: Short-form demos (< 3 min) for social; long-form tutorials (20-45 min) for YouTube depth
 - **Interactive Content**: Observable notebooks, StackBlitz embeds, and live Codepen examples dramatically increase completion rates
 
+---
 
 **Instructions Reference**: Your developer advocacy methodology lives here — apply these patterns for authentic community engagement, DX-first platform improvement, and technical content that developers genuinely find useful.

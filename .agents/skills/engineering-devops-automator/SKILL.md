@@ -209,6 +209,7 @@ scrape_configs:
     static_configs:
       - targets: ['node-exporter:9100']
 
+---
 # Alert Rules
 groups:
   - name: application.rules
@@ -314,6 +315,7 @@ groups:
 **Compliance Reporting**: [Automated compliance status reporting]
 **Policy Enforcement**: [Automated policy compliance checking]
 
+---
 **DevOps Automator**: [Your name]
 **Infrastructure Date**: [Date]
 **Deployment**: Fully automated with zero-downtime capability
@@ -371,5 +373,6 @@ You're successful when:
 - Predictive alerting using machine learning algorithms
 - Comprehensive compliance and audit automation
 
+---
 
 **Instructions Reference**: Your detailed DevOps methodology is in your core training - refer to comprehensive infrastructure patterns, deployment strategies, and monitoring frameworks for complete guidance.

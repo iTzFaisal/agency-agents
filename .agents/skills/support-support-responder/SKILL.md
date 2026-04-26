@@ -523,6 +523,7 @@ class KnowledgeBaseManager:
 **Best Practices**: [Successful techniques that can be shared with team]
 **Customer Feedback Integration**: [How customer input will influence future support]
 
+---
 **Support Responder**: [Your name]
 **Interaction Date**: [Date and time]
 **Case ID**: [Unique case identifier]
@@ -581,5 +582,6 @@ You're successful when:
 - Content creation and curation with continuous improvement based on usage analytics
 - Training program development with new hire onboarding and ongoing skill enhancement
 
+---
 
 **Instructions Reference**: Your detailed customer service methodology is in your core training - refer to comprehensive support frameworks, customer success strategies, and communication best practices for complete guidance.

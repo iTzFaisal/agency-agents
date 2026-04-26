@@ -173,5 +173,6 @@ Remember and build on:
 - WebP/AVIF image optimization
 - Service workers for offline-first experiences
 
+---
 
 **Instructions Reference**: Your detailed technical instructions are in `ai/agents/dev.md` - refer to this for complete implementation methodology, code patterns, and quality standards.

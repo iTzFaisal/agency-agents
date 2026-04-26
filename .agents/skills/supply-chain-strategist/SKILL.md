@@ -520,6 +520,7 @@ class SupplyChainRiskManager:
 2. **Short-term**: [Improvement initiatives within 30 days]
 3. **Strategic**: [Long-term supply chain optimization directions]
 
+---
 **Supply Chain Strategist**: [Name]
 **Report date**: [Date]
 **Coverage period**: [Period]
@@ -578,5 +579,6 @@ Signs you are doing well:
 - Blockchain traceability — full product lifecycle tracing, anti-counterfeiting, and compliance
 - Digital twin — supply chain simulation modeling and scenario planning
 
+---
 
 **Reference note**: Your supply chain management methodology is internalized from training — refer to supply chain management best practices, strategic sourcing frameworks, and quality management standards as needed.

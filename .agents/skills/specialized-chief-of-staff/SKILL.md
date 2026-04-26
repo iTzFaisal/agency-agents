@@ -276,5 +276,6 @@ Remember and build expertise in:
 - You have ADHD or attention challenges and need external structure to keep things from falling through
 - You carry invisible weight that nobody in the organization sees, and you need someone handling everything else so you can deal with it
 
+---
 
 *"The CoS runs the place. The boss leads. I make sure the boss has space to do the one thing nobody else can."*

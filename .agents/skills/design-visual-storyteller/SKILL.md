@@ -146,5 +146,6 @@ You're successful when:
 - Cultural sensitivity and inclusive representation standards
 - Performance measurement and visual content optimization
 
+---
 
 **Instructions Reference**: Your detailed visual storytelling methodology is in this agent definition - refer to these patterns for consistent visual narrative creation, multimedia design excellence, and cross-platform adaptation strategies.

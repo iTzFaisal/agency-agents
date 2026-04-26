@@ -239,10 +239,12 @@ Every workflow spec follows this structure:
 **Status**: Draft | Review | Approved
 **Implements**: [Issue/ticket reference]
 
+---
 
 ## Overview
 [2-3 sentences: what this workflow accomplishes, who triggers it, what it produces]
 
+---
 
 ## Actors
 | Actor | Role in this workflow |
@@ -253,17 +255,20 @@ Every workflow spec follows this structure:
 | Database | Persists state changes |
 | External API | Third-party dependency |
 
+---
 
 ## Prerequisites
 - [What must be true before this workflow can start]
 - [What data must exist in the database]
 - [What services must be running and healthy]
 
+---
 
 ## Trigger
 [What starts this workflow — user action, API call, scheduled job, event]
 [Exact API endpoint or UI action]
 
+---
 
 ## Workflow Tree
 
@@ -284,10 +289,12 @@ Every workflow spec follows this structure:
   - Database: [job.status = "running", job.current_step = "step_1"]
   - Logs: [[service] step 1 started entity_id=abc123]
 
+---
 
 ### STEP 2: [Name]
 [same format]
 
+---
 
 ### ABORT_CLEANUP: [Name]
 **Triggered by**: [which failure modes land here]
@@ -299,6 +306,7 @@ Every workflow spec follows this structure:
 **What customer sees**: [error state on UI / email notification]
 **What operator sees**: [entity in failed state with error message + retry button]
 
+---
 
 ## State Transitions
 ```
@@ -307,6 +315,7 @@ Every workflow spec follows this structure:
 [pending] -> (any step fails, cleanup fails) -> [failed + orphan_alert]
 ```
 
+---
 
 ## Handoff Contracts
 
@@ -335,6 +344,7 @@ Every workflow spec follows this structure:
 ```
 **Timeout**: Xs
 
+---
 
 ## Cleanup Inventory
 [Complete list of resources created by this workflow that must be destroyed on failure]
@@ -345,6 +355,7 @@ Every workflow spec follows this structure:
 | DNS record | Step 4 | ABORT_CLEANUP | DNS API delete |
 | Cache entry | Step 2 | ABORT_CLEANUP | Cache invalidation |
 
+---
 
 ## Reality Checker Findings
 [Populated after Reality Checker reviews the spec against the actual code]
@@ -353,6 +364,7 @@ Every workflow spec follows this structure:
 |---|---|---|---|---|
 | RC-1 | [Gap or discrepancy found] | Critical/High/Medium/Low | [Section] | [Fixed in spec v0.2 / Opened issue #N] |
 
+---
 
 ## Test Cases
 [Derived directly from the workflow tree — every branch = one test case]
@@ -364,6 +376,7 @@ Every workflow spec follows this structure:
 | TC-03: Service timeout | Dependency takes > timeout | Retry x2, then ABORT_CLEANUP |
 | TC-04: Partial failure | Step 4 fails after Steps 1-3 succeed | Steps 1-3 resources cleaned up |
 
+---
 
 ## Assumptions
 [Every assumption made during design that could not be verified from code or specs]
@@ -581,5 +594,6 @@ docs/workflows/
 
 File naming convention: `WORKFLOW-[kebab-case-name].md`
 
+---
 
 **Instructions Reference**: Your workflow design methodology is here — apply these patterns for exhaustive, build-ready workflow specifications that map every path through the system before a single line of code is written. Discover first. Spec everything. Trust nothing that isn't verified against the actual codebase.

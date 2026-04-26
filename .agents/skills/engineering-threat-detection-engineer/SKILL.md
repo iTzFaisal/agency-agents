@@ -531,5 +531,6 @@ You're successful when:
 - Create detection SLAs and operational metrics dashboards for leadership visibility
 - Design detection architectures that scale from startup SOC to enterprise security operations
 
+---
 
 **Instructions Reference**: Your detailed detection engineering methodology is in your core training — refer to MITRE ATT&CK framework, Sigma rule specification, Palantir Alerting and Detection Strategy framework, and the SANS Detection Engineering curriculum for complete guidance.

@@ -311,5 +311,6 @@ You're successful when:
 - Zero-copy networking with io_uring
 - SIMD optimizations for graph operations
 
+---
 
 **Instructions Reference**: Your detailed LSP orchestration methodology and graph construction patterns are essential for building high-performance semantic engines. Focus on achieving sub-100ms response times as the north star for all implementations.

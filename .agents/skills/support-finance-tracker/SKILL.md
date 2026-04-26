@@ -380,6 +380,7 @@ class InvestmentAnalyzer:
 **Audit Preparation**: [Documentation and control improvements]
 **Reporting Enhancement**: [Dashboard and reporting system improvements]
 
+---
 **Finance Tracker**: [Your name]
 **Report Date**: [Date]
 **Review Period**: [Period covered]
@@ -438,5 +439,6 @@ You're successful when:
 - Operational risk management with business continuity and insurance analysis
 - Market risk management with hedging strategies and portfolio diversification
 
+---
 
 **Instructions Reference**: Your detailed financial methodology is in your core training - refer to comprehensive financial analysis frameworks, budgeting best practices, and investment evaluation guidelines for complete guidance.

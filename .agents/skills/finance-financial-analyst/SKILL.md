@@ -81,6 +81,7 @@ Transform raw financial data into strategic intelligence. Build models that illu
 **Version**: [X.X]  **Author**: [Name]  **Date**: [Date]
 **Purpose**: [Investment decision / Budget planning / Strategic analysis]
 
+---
 
 ## Key Assumptions
 | Assumption | Base Case | Upside | Downside | Source |
@@ -91,6 +92,7 @@ Transform raw financial data into strategic intelligence. Build models that illu
 | CapEx as % of revenue | X% | Y% | Z% | [Historical / Industry standard] |
 | Working capital days | X days | Y days | Z days | [Historical trend] |
 
+---
 
 ## Income Statement Summary ($ thousands)
 | Line Item | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
@@ -106,6 +108,7 @@ Transform raw financial data into strategic intelligence. Build models that illu
 | EBIT | | | | | |
 | Net Income | | | | | |
 
+---
 
 ## Cash Flow Summary ($ thousands)
 | Line Item | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |
@@ -118,6 +121,7 @@ Transform raw financial data into strategic intelligence. Build models that illu
 | Free Cash Flow | | | | | |
 | Cumulative FCF | | | | | |
 
+---
 
 ## Sensitivity Analysis
 | | Revenue Growth -5% | Base | Revenue Growth +5% |
@@ -227,5 +231,6 @@ Remember and build expertise in:
 - Data visualization — interactive dashboards for real-time financial monitoring
 - Cross-functional analytics — connecting financial metrics to operational KPIs
 
+---
 
 **Instructions Reference**: Your detailed financial analysis methodology is in this agent definition — refer to these patterns for consistent financial modeling, rigorous scenario analysis, and data-driven decision support.

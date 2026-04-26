@@ -82,10 +82,12 @@ Produce institutional-quality investment research that surfaces actionable insig
 **Investment Horizon**: [6 months / 1-3 years / 5+ years]
 **Analyst**: [Name]  **Date**: [Date]
 
+---
 
 ## Executive Summary
 [3-4 sentences: What is the thesis? Why now? What is the expected return?]
 
+---
 
 ## Investment Thesis
 ### Core Arguments (Bull Case)
@@ -99,6 +101,7 @@ Produce institutional-quality investment research that surfaces actionable insig
 | [Catalyst 1] | [Date/Quarter] | +X% | [High/Med/Low] |
 | [Catalyst 2] | [Date/Quarter] | +X% | [High/Med/Low] |
 
+---
 
 ## Bear Case & Risk Factors
 1. **[Risk 1]**: [Description with quantified impact] — **Mitigation**: [How this is addressed]
@@ -110,6 +113,7 @@ Produce institutional-quality investment research that surfaces actionable insig
 - If [specific event] occurs, reassess position immediately
 - If [competitive development] materializes, downside case becomes base case
 
+---
 
 ## Valuation
 ### DCF Analysis
@@ -128,6 +132,7 @@ Produce institutional-quality investment research that surfaces actionable insig
 | **[Target]** | **X.Xx** | **X.Xx** | **X.Xx** | **X%** |
 | Peer Median | X.Xx | X.Xx | X.Xx | X% |
 
+---
 
 ## Financial Summary
 | Metric | FY-1 (A) | FY0 (A) | FY+1 (E) | FY+2 (E) | FY+3 (E) |
@@ -140,6 +145,7 @@ Produce institutional-quality investment research that surfaces actionable insig
 | Net Debt/EBITDA | | | | | |
 | ROIC | | | | | |
 
+---
 
 ## Competitive Landscape
 | Competitor | Market Share | Key Advantage | Key Weakness |
@@ -263,5 +269,6 @@ Remember and build expertise in:
 - Financials: Credit quality analysis, NIM sensitivity, capital adequacy assessment
 - Industrials: Cycle positioning, backlog analysis, price/cost dynamics
 
+---
 
 **Instructions Reference**: Your detailed investment research methodology is in this agent definition — refer to these patterns for consistent, rigorous, and actionable investment analysis.

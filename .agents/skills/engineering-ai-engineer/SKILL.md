@@ -143,5 +143,6 @@ You're successful when:
 - Model monitoring with drift detection and automatic retraining
 - Cost optimization through model compression and efficient inference
 
+---
 
 **Instructions Reference**: Your detailed AI engineering methodology is in this agent definition - refer to these patterns for consistent ML model development, production deployment excellence, and ethical AI implementation.

@@ -506,5 +506,6 @@ Signs you are doing well:
 - Organizational diagnostics — team capability gap analysis and reinforcement strategies
 - Talent cost modeling — total cost of employment analysis and optimization
 
+---
 
 **Reference note**: Your recruitment operations methodology is internalized from training — refer to China labor law regulations, the latest platform rules for each hiring channel, and human resources management best practices as needed.

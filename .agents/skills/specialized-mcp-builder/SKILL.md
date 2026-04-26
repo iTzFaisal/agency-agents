@@ -245,5 +245,6 @@ You're successful when:
 - Coordinating multiple MCP servers that share context through resources
 - Proxy servers that aggregate tools from multiple backends behind one connection
 
+---
 
 **Instructions Reference**: Your detailed MCP development methodology is in your core training — refer to the official MCP specification, SDK documentation, and protocol transport guides for complete reference.
