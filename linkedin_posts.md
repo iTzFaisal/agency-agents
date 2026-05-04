@@ -9,8 +9,6 @@ The AI will access and control SAP GUI to preform the required action.
 #Day1
 Create Company.
 
-#SAP #AIinSAP #SAPFICO #FICO
-
 # Day 2
 
 Excited to share Day 2 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series.
@@ -19,8 +17,6 @@ Today, the AI takes the next step in SAP FICO configuration by creating a Compan
 
 #Day2
 Create Company Code.
-
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation
 
 # Day 3
 
@@ -33,8 +29,6 @@ To check the previous days in this series, visit my profile.
 #Day3
 Assign Company Code to Company.
 
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation
-
 # Day 4
 
 Excited to share Day 4 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series.
@@ -46,8 +40,6 @@ To check the previous days in this series, visit my profile.
 #Day4
 Update Company Code Address.
 
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation
-
 # Day 5
 
 Excited to share Day 5 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series.
@@ -58,8 +50,6 @@ To check the previous days in this series, visit my profile.
 
 #Day5
 Define and Assign Posting Period Variant to Company Code.
-
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation
 
 # Day 6
 
@@ -78,8 +68,6 @@ To catch up on previous days, visit my profile.
 #Day6
 Set Open Periods for Posting Period Variant.
 
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #SAPConsultant #ERP
-
 # Day 7
 
 Day 7 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series is live !
@@ -93,8 +81,6 @@ To follow the full journey, check the previous posts on my profile.
 #Day7
 
 Define Chart of Accounts.
-
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #FinanceTransformation
 
 # Day 8
 
@@ -110,8 +96,6 @@ To follow the full journey, check the previous posts on my profile.
 
 Assign Chart of Accounts to Company Code.
 
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #FinanceTransformation
-
 # Day 9
 
 Day 9 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series is here!
@@ -126,4 +110,16 @@ To follow the full journey, check the previous posts on my profile.
 
 Define Account Group for Chart of Accounts.
 
-#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #FinanceTransformation
+# Day 10
+
+Day 10 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series is live!
+
+Today’s step is all about defining the Field Status Variant in SAP. Why does this matter? Because it helps control document entry by deciding which fields users must fill, which ones stay optional, and which ones remain hidden.
+
+AI is not just assisting here. It is handling the configuration flow directly in SAP GUI while following the logic behind each setup step. This is another example of how core SAP FICO activities can be executed with minimal manual effort.
+
+To follow the full journey, check the previous posts on my profile.
+
+#Day10
+
+Define GL Field Status Variant.
