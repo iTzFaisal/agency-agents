@@ -95,3 +95,35 @@ To follow the full journey, check the previous posts on my profile.
 Define Chart of Accounts.
 
 #SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #FinanceTransformation
+
+# Day 8
+
+Day 8 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series is here!
+
+After defining the Chart of Accounts in Day 7, the next logical step is assigning it to the Company Code. This step is essential because it connects the company code to its financial structure and ensures that transactions are recorded under the correct account in SAP.
+
+What makes this more interesting is seeing AI complete the configuration flow directly in OBY6 with an understanding of the dependency between settings. It keeps proving that even core SAP FICO configuration activities can be handled with minimal manual effort.
+
+To follow the full journey, check the previous posts on my profile.
+
+#Day8
+
+Assign Chart of Accounts to Company Code.
+
+#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #FinanceTransformation
+
+# Day 9
+
+Day 9 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series is here!
+
+After defining the Chart of Accounts and assigning it to the Company Code, the next step is defining the Account Group for the Chart of Accounts. This step is important because it controls how G/L accounts are categorized and how number ranges are managed in SAP.
+
+What makes this interesting is seeing AI continue the configuration flow with the right sequence inside SAP GUI. Step by step, it is building the financial structure the same way an SAP FICO consultant would.
+
+To follow the full journey, check the previous posts on my profile.
+
+#Day9
+
+Define Account Group for Chart of Accounts.
+
+#SAP #AIinSAP #SAPFICO #FICO #ArtificialIntelligence #SAPAutomation #FinanceTransformation
