@@ -123,3 +123,17 @@ To follow the full journey, check the previous posts on my profile.
 #Day10
 
 Define GL Field Status Variant.
+
+# Day 11
+
+Day 11 of 𝐀𝐈 𝐃𝐨𝐞𝐬 𝐒𝐀𝐏 𝐅𝐈𝐂𝐎 series is here!
+
+Today’s step is assigning the G/L Field Status Variant so the Company Code can actually apply the required, optional, and hidden field rules during postings.
+
+It is impressive to see AI continue this process directly in SAP GUI without manual intervention.
+
+To follow the full journey, check the previous posts on my profile.
+
+#Day11
+
+Assign GL Field Status Variant.
